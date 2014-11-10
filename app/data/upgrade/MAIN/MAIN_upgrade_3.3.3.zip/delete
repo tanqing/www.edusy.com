@@ -1,0 +1,6 @@
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/audio-chooser.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/audio-chooser.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/ppt-chooser.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/ppt-chooser.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/video-chooser.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/video-chooser.js

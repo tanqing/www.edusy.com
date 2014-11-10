@@ -1,0 +1,12 @@
+{% extends 'TopxiaWebBundle::layout.html.twig' %}
+
+{% set script_controller = 'memberbundle/controller/index' %}
+
+{% block content %}
+
+{% set lessons = data('FreeLessons', {count:2}) %}
+
+{{ dump(lessons) }}
+
+
+{% endblock %}

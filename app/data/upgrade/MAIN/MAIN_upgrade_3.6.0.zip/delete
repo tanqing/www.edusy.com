@@ -1,0 +1,6 @@
+src/Topxia/AdminBundle/Resources/public/js/controller/setting/contact-setting.js
+web/bundles/topxiaadmin/js/controller/setting/contact-setting.js
+src/Topxia/AdminBundle/Resources/views/System/contact-setting.html.twig
+src/Topxia/WebBundle/Resources/public/css/contact.css
+web/bundles/topxiaweb/css/contact.css
+src/Topxia/WebBundle/Resources/views/ContactFloat/contact.html.twig

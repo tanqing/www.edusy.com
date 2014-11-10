@@ -1,0 +1,14 @@
+src/Topxia/AdminBundle/Resources/views/System/storage.html.twig
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/audio-chooser5.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/audio-chooser5.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/base-chooser-6.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/base-chooser-6.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/chunk-upload3.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/chunk-upload3.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/ppt-chooser5.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/ppt-chooser5.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/video-chooser5.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/video-chooser5.js
+web/themes/default/TopxiaWebBundle/views/Default/index.html.twig
+web/themes/default/TopxiaWebBundle/views/layout.html.twig
+web/themes/default/css/default.css

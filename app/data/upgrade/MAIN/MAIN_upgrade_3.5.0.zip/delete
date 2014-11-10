@@ -1,0 +1,15 @@
+src/Topxia/AdminBundle/Resources/views/User/userinfo.excel.html.twig
+src/Topxia/AdminBundle/Resources/views/User/userinfo.excel.step2.html.twig
+src/Topxia/WebBundle/Resources/public/js/controller/widget/file/file-chooser.js
+web/bundles/topxiaweb/js/controller/widget/file/file-chooser.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/audio-chooser2.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/audio-chooser2.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/base-chooser-3.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/base-chooser-3.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/ppt-chooser2.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/ppt-chooser2.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-chooser/video-chooser2.js
+web/bundles/topxiaweb/js/controller/widget/media-chooser/video-chooser2.js
+src/Topxia/WebBundle/Resources/public/js/controller/widget/media-player2.js
+web/bundles/topxiaweb/js/controller/widget/media-player2.js
+web/assets/libs/common/bootstrap-modal-hack.js
